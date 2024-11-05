@@ -12,6 +12,7 @@ flask-login = "*"
 freezegun = "*"
 psycopg2-binary = "*"
 bcrypt = "*"
+flask-swagger-ui = "*"
 
 [dev-packages]
 pytest = "*"
