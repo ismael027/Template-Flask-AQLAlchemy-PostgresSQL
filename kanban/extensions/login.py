@@ -1,7 +1,7 @@
 from flask_login import LoginManager
 
 from kanban.database import Session
-from kanban.user.model.user_model import User
+from kanban.models import User
 
 
 def init_app(app):
